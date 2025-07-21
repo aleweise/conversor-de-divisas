@@ -50,7 +50,7 @@ Un convertidor de divisas moderno y elegante construido con React, TypeScript y 
 
 1. **Clona el repositorio**
    ```bash
-   git clone https://github.com/tu-usuario/conversor-de-divisas.git
+   git clone https://github.com/aleweise/conversor-de-divisas.git
    cd conversor-de-divisas
    ```
 
